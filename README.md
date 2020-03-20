@@ -42,6 +42,7 @@
 ### LeetCode: 
 - LeetCode3:Longest Substring Without Repeating Characters
 - LeetCode24:Swap nodes in pairs
+- LeetCode25:Reverse Nodes in k-Group
 - LeetCode384:Shuffle an array
 
 -------

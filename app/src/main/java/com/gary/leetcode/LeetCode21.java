@@ -34,10 +34,10 @@ public class LeetCode21 {
         ListNode head = null;
         if (l1.val <= l2.val) {
             head = l1;
-            head.next = mergeTwoLists(l1.next, l2);
+            head.next = recursiveMergeTwoLists(l1.next, l2);
         } else {
             head = l2;
-            head.next = mergeTwoLists(l1, l2.next);
+            head.next = recursiveMergeTwoLists(l1, l2.next);
         }
         return head;
     }
