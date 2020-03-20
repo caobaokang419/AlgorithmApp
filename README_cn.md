@@ -1,41 +1,42 @@
 # AlgorithmApp
 
 -------
-### Search algorithm: 
-- SequenceSearch
-- BinarySearch
-- InsertionSearch
+### 查找算法: 
+- SequenceSearch：顺序查找
+- BinarySearch：二分查找（折半查找）
+- InsertionSearch：插入查找
 
 -------
-### Sort algorithm: 
-- BubbleSort
-- SelectionSort
-- InsertionSort
-- ShellSort
-- MergeSort
-- HeapSort
-- QuickSort
-- BucketSort
-- CountingSort
-- RadixSort
+### 排序算法: 
+- BubbleSort：冒泡排序
+- SelectionSort：选择排序
+- InsertionSort：插入排序
+- ShellSort：希尔排序
+- MergeSort：归并排序
+- HeapSort：堆排序
+- QuickSort：快速排序
+- BucketSort：桶排序
+- CountingSort：计数排序
+- RadixSort：基数排序
 
 -------
-### Tree algorithm: 
-- BinaryTree
-- AvlBalanceTree
-- RedBlackTree
+### 树结构算法: 
+- BinaryTree：二叉树算法
+- AvlBalanceTree：平衡二叉树
+- RedBlackTree：红黑树
 
 -------
-### Concurrence algorithm: 
-- BlockedQueuePcModel
-- WaitNotifyPcModel
-- ReentrantLockPcModel
-- SemaphorePcModel
+### 并发算法: 
+- BlockedQueuePcModel：生产者-消费者模型1：阻塞队列
+- WaitNotifyPcModel：生产者-消费者模型2：Wait+Notify
+- ReentrantLockPcModel：生产者-消费者模型3：重入锁ReentrantLock
+- SemaphorePcModel：生产者-消费者模型4：信号量Semaphore
 
 -------
 ### LeetCode: 
-- LeetCode3
-- LeetCode384
+- LeetCode3：求最长无重复字符的子串
+- LeetCode24：两两交换链表相邻的节点
+- LeetCode384：打乱一个没有重复元素的数组（洗牌算法）
 
 -------
 ### Contact with Me:
