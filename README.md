@@ -1,6 +1,5 @@
 # AlgorithmApp
 
--------
 ### [简体中文 说明入口](https://github.com/caobaokang419/AlgorithmApp/blob/master/README_cn.md)
 
 -------
@@ -23,6 +22,10 @@
 - RadixSort
 
 -------
+### LinkedList algorithm: 
+- ReverseLinkedList
+
+-------
 ### Tree algorithm: 
 - BinaryTree
 - AvlBalanceTree
@@ -30,15 +33,16 @@
 
 -------
 ### Concurrence algorithm: 
-- BlockedQueuePcModel
-- WaitNotifyPcModel
-- ReentrantLockPcModel
-- SemaphorePcModel
+- Producer consumer Model 1：BlockedQueue
+- Producer consumer Model 2：Wait() + Notify()
+- Producer consumer Model 3：ReentrantLock
+- Producer consumer Model 4：Semaphore
 
 -------
 ### LeetCode: 
-- LeetCode3
-- LeetCode384
+- LeetCode3:Longest Substring Without Repeating Characters
+- LeetCode24:Swap nodes in pairs
+- LeetCode384:Shuffle an array
 
 -------
 ### Contact with Me:
