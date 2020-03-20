@@ -39,11 +39,12 @@
 - Producer consumer Model 4：Semaphore
 
 -------
-### LeetCode: 
+### LeetCode(https://leetcode-cn.com/problems): 
 - LeetCode3:Longest Substring Without Repeating Characters
-- LeetCode24:Swap nodes in pairs
-- LeetCode25:Reverse Nodes in k-Group
-- LeetCode384:Shuffle an array
+- LeetCode24:swap nodes in pairs
+- LeetCode25:reverse Nodes in k-Group
+- LeetCode251:kth largest element in an array
+- LeetCode384:shuffle an array
 
 -------
 ### Contact with Me:
