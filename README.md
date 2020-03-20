@@ -1,6 +1,9 @@
 # AlgorithmApp
 
 -------
+### [简体中文 说明入口](https://github.com/caobaokang419/AlgorithmApp/blob/master/README_cn.md)
+
+-------
 ### Search algorithm: 
 - SequenceSearch
 - BinarySearch
