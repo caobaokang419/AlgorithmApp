@@ -20,6 +20,11 @@
 - RadixSort：基数排序
 
 -------
+### 链表算法: 
+- ReverseLinkedList：链表翻转
+- MergeOrderLinkedList：有序链表合并
+
+-------
 ### 树结构算法: 
 - BinaryTree：二叉树算法
 - AvlBalanceTree：平衡二叉树
@@ -34,9 +39,10 @@
 
 -------
 ### LeetCode: 
-- LeetCode3：求最长无重复字符的子串
-- LeetCode24：两两交换链表相邻的节点
-- LeetCode384：打乱一个没有重复元素的数组（洗牌算法）
+- LeetCode3:Longest Substring Without Repeating Characters 求最长无重复字符的子串
+- LeetCode24:Swap nodes in pairs 两两交换链表相邻的节点
+- LeetCode25:Reverse Nodes in k-Group k个一组翻转链表
+- LeetCode384:Shuffle an array 打乱一个没有重复元素的数组（洗牌算法）
 
 -------
 ### Contact with Me:
