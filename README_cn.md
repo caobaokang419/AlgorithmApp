@@ -38,6 +38,12 @@
 - SemaphorePcModel：生产者-消费者模型4：信号量Semaphore
 
 -------
+### 网络算法: 
+- bio：(Blocking I/O)：同步阻塞I/O模式，数据的读取写入必须阻塞在一个线程内等待其完成。
+- nio：(New I/O or Non-blocking I/O)：同步非阻塞的I/O模型，在Java 1.4 中引入了NIO框架，对应 java.nio 包，提供了 Channel , Selector，Buffer等抽象。
+- aio： (Asynchronous I/O)：就是NIO 2。在Java 7中引入了NIO的改进版NIO 2,它是异步非阻塞的IO模型。
+
+-------
 ### LeetCode: 
 - LeetCode3:Longest Substring Without Repeating Characters 求最长无重复字符的子串
 - LeetCode24:Swap nodes in pairs 两两交换链表相邻的节点
